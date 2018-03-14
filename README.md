@@ -17,6 +17,7 @@ Tạo table hiển thị thời khoá biểu học tập ở trường
 
 | Môn           | Thứ           
 | ------------- |:------------
-| col 3 is      | right-aligned 
-| col 2 is      | centered     
-| zebra stripes | are neat      
+| LTW2          | Thứ 3
+| PTUDCS2       | Thứ 5    
+| Linux, TKHTM  | Thứ 4
+|TTHCM, PLĐC    | Thứ 6
