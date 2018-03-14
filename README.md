@@ -4,5 +4,5 @@ Họ tên: Lê Thanh Trực
 Lớp: 15CK3
 Email: Lê Thanh Trực
 Điện thoại: 0948570556
-Link facebook cá nhân: 
+Link facebook cá nhân: https://www.facebook.com/lttruc97
 Tạo table hiển thị thời khoá biểu học tập ở trường
